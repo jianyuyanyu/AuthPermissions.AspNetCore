@@ -12,6 +12,7 @@
 		<PackageReference Include="Microsoft.IdentityModel.JsonWebTokens" Version="8.2.1" />
 		<PackageReference Include="Net.DistributedFileStoreCache" Version="2.0.0" />
 		<PackageReference Include="Net.LocalizeMessagesAndErrors" Version="10.0.0" />
+		<PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.0" />
 		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.2.1" />
 	</ItemGroup>
 
