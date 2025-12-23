@@ -14,7 +14,6 @@ The AuthP is an open-source library under the MIT licence (and remain as a open-
 - Version  9.?.? supports NET 9 only (simpler to update to next NET release)
 - Version  8.?.? supports NET 8 only (simpler to update to next NET release)
 
-
 If you have already built your application using an older version, then you need to look at the following "how up update" documents
 
 - For AuthPermissions.AspNetCore versions below 9 see [UpdateToVersion9.md](https://github.com/JonPSmith/AuthPermissions.AspNetCore/blob/main/UpdateToVersion9.md)
