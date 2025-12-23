@@ -10,10 +10,10 @@ The AuthP is an open-source library under the MIT licence (and remain as a open-
 
 ## List of versions and which .NET framework they support
 
-- Version 9.?.? supports NET 9 only (simpler to update to next NET release)
-- Version 8.?.? supports NET 8 only (simpler to update to next NET release)
-- Version 6.?.? supports NET 6, 7 and 8
-- Version 5.?.? supports NET 6 and 7
+- Version 10.?.? supports NET 10 only (simpler to update to next NET release)
+- Version  9.?.? supports NET 9 only (simpler to update to next NET release)
+- Version  8.?.? supports NET 8 only (simpler to update to next NET release)
+
 
 If you have already built your application using an older version, then you need to look at the following "how up update" documents
 
@@ -41,7 +41,7 @@ On your computer you need to install the global tool using the command below (se
 
 `dotnet tool install JonPSmith.MultiProjPack --global`
 
-_NOTE: To update the MultiProjPack .NET tool you need to run the command `dotnet tool update JonPSmith.MultiProjPack --global`. Or to uninstall this tool you should use `dotnet tool uninstall JonPSmith.MultiProjPack --global` command._
+_NOTE: To update the MultiProjPack .NET tool you need to go to [Updating the MultiProjPack dotnet tool](https://github.com/JonPSmith/MultiProgPackTool?tab=readme-ov-file#updating-the-multiprojpack-dotnet-tool) for all the information._
 
 ### 2. Compile the AuthPermissions.AspNetCore in release Mode
 
